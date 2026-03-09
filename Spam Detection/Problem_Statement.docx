@@ -1,0 +1,12 @@
+Problem Statement
+-----------------
+
+Email communication is widely used for personal and professional purposes. However, a large portion of emails received daily are spam messages, which may include advertisements, phishing attempts, or malicious links. These spam messages not only waste users’ time but also pose serious cybersecurity risks such as data theft, malware distribution, and financial fraud.
+
+Traditional rule-based spam filters often fail to detect newly generated spam patterns. Therefore, there is a need for an intelligent system that can automatically classify messages as spam or legitimate (ham) using data-driven techniques.
+
+In this project, we aim to develop a Machine Learning–based spam detection system using the SMS Spam Collection dataset. Multiple machine learning and deep learning models will be trained and evaluated on the same dataset, including Logistic Regression, Decision Tree, Random Forest, and Deep Neural Networks.
+
+The models will be compared based on various evaluation metrics such as Accuracy, Precision, Recall, F1-Score, ROC Curve, and AUC Score. Additionally, model complexity will be analyzed through parameter count and computational cost (MAC values) to determine the most efficient and effective model for spam detection.
+
+The final objective is to identify the best performing model for spam classification and demonstrate how machine learning can be applied to solve real-world cybersecurity problems.
