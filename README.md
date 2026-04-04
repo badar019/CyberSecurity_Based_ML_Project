@@ -12,32 +12,58 @@ Each project in this repository follows a consistent pipeline:
 
 - Data Collection & Preprocessing
  Handling missing values
+
  Encoding categorical features
+
  Feature scaling
+
 - Exploratory Data Analysis (EDA)
  Distribution analysis
+
  Correlation analysis
+
  Class imbalance detection
+
 - Model Training
+
  ultiple machine learning models are trained and compared:
+
  Logistic Regression (LR)
+
  Decision Tree (DT)
+
  Random Forest (RF)
+
  XGBoost (XGB)
+
  Deep Neural Network (DNN)
+
 - Evaluation Metrics
+
  Accuracy
+
  Precision, Recall, F1-score
+
  ROC-AUC
+
  Confusion Matrix
+
 - Model Complexity Analysis
+
  Parameter count
+
  Training time
+
  Inference time
+
 📂 Projects Included
+
 🔹 1. Network Intrusion Detection
+
      Dataset: NSL-KDD / CICIDS
+
      Objective: Detect normal vs malicious traffic
+     
      Type: Binary / Multi-class classification
 
 ⚙️ Installation & Setup
@@ -48,12 +74,14 @@ Each project in this repository follows a consistent pipeline:
  pip install -r requirements.txt
 
 📌 Key Contributions
+
  Comparative analysis of ML models in cybersecurity tasks
  Evaluation of performance vs computational complexity
  Modular and reusable ML pipeline
  Research-oriented project structure 
 
 📈 Future Work
+
  Cross-dataset generalization analysis
  Real-time intrusion detection system
  Lightweight models for edge deployment
