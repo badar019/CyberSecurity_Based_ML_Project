@@ -120,6 +120,19 @@ The project includes:
 * ROC Curves for all models
 * Confusion Matrices
 * Training vs Validation plots (DNN)
+* Loss Curve
+
+### 🔹 ROC Curve Comparison
+![ROC Curve](images/roc_curve.png)
+
+### 🔹 Confusion Matrix (XGBoost)
+![Confusion Matrix](images/xgb_cm.png)
+
+### 🔹 Training vs Validation Curve (DNN)
+![DNN Curve](images/dnn_curve.png)
+
+### 🔹 Training vs Validation Curve (DNN)
+![Loss Curve](images/loss_curve.png)
 
 ---
 
