@@ -11,6 +11,7 @@ across different security domains.
 Each project in this repository follows a consistent pipeline:
 
 🔹 a. Data Collection & Preprocessing
+    
      Handling missing values
 
      Encoding categorical features
@@ -74,6 +75,7 @@ Each project in this repository follows a consistent pipeline:
 - Install dependencies:
  pip install -r requirements.txt
 
+
 📌 Key Contributions
 
  - Comparative analysis of ML models in cybersecurity tasks
@@ -81,10 +83,11 @@ Each project in this repository follows a consistent pipeline:
  - Modular and reusable ML pipeline
  - Research-oriented project structure 
 
+
 📈 Future Work
 
- Cross-dataset generalization analysis
- Real-time intrusion detection system
- Lightweight models for edge deployment
- Explainable AI (SHAP, LIME) integration
- Hybrid ML + Deep Learning approaches
+  - Cross-dataset generalization analysis
+  - Real-time intrusion detection system
+  - Lightweight models for edge deployment
+  - Explainable AI (SHAP, LIME) integration
+  - Hybrid ML + Deep Learning approaches
