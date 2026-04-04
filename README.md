@@ -10,51 +10,52 @@ across different security domains.
 
 Each project in this repository follows a consistent pipeline:
 
-- Data Collection & Preprocessing
- Handling missing values
+🔹 a. Data Collection & Preprocessing
+     Handling missing values
 
- Encoding categorical features
+     Encoding categorical features
 
- Feature scaling
+     Feature scaling
 
-- Exploratory Data Analysis (EDA)
- Distribution analysis
+🔹 b. Exploratory Data Analysis (EDA)
+ 
+     Distribution analysis
 
- Correlation analysis
+     Correlation analysis
 
- Class imbalance detection
+     Class imbalance detection
 
-- Model Training
+🔹 c. Model Training
 
- ultiple machine learning models are trained and compared:
+     ultiple machine learning models are trained and compared:
 
- Logistic Regression (LR)
+     Logistic Regression (LR)
 
- Decision Tree (DT)
+     Decision Tree (DT)
 
- Random Forest (RF)
+     Random Forest (RF)
 
- XGBoost (XGB)
+     XGBoost (XGB)
 
- Deep Neural Network (DNN)
+     Deep Neural Network (DNN)
 
-- Evaluation Metrics
+🔹 d. Evaluation Metrics
 
- Accuracy
+     Accuracy
 
- Precision, Recall, F1-score
+     Precision, Recall, F1-score
 
- ROC-AUC
+     ROC-AUC
 
- Confusion Matrix
+     Confusion Matrix
 
-- Model Complexity Analysis
+🔹 e. Model Complexity Analysis
 
- Parameter count
+     Parameter count
 
- Training time
+     Training time
 
- Inference time
+     Inference time
 
 📂 Projects Included
 
@@ -63,7 +64,7 @@ Each project in this repository follows a consistent pipeline:
      Dataset: NSL-KDD / CICIDS
 
      Objective: Detect normal vs malicious traffic
-     
+
      Type: Binary / Multi-class classification
 
 ⚙️ Installation & Setup
@@ -75,10 +76,10 @@ Each project in this repository follows a consistent pipeline:
 
 📌 Key Contributions
 
- Comparative analysis of ML models in cybersecurity tasks
- Evaluation of performance vs computational complexity
- Modular and reusable ML pipeline
- Research-oriented project structure 
+ - Comparative analysis of ML models in cybersecurity tasks
+ - Evaluation of performance vs computational complexity
+ - Modular and reusable ML pipeline
+ - Research-oriented project structure 
 
 📈 Future Work
 
