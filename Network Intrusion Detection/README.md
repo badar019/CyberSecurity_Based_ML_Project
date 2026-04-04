@@ -141,8 +141,8 @@ The project includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nids-ml-project.git
-cd nids-ml-project
+git clone https://github.com/badar019/CyberSecurity_Based_ML_Project
+cd Network Intrusion Detection
 ```
 
 ### 2. Install Dependencies
