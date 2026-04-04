@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "F:/miniconda/envs/ml_env/Lib/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off"
+
+}
