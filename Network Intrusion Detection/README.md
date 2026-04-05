@@ -167,6 +167,11 @@ Open the notebook and run all cells.
 ├── data/
 │   ├── KDDTrain+.txt
 │   ├── KDDTest+.txt
+├── images/
+|   ├── dnn_curve.png
+|   ├── loss_curve.png
+|   ├── roc_curve.png
+|   ├── xgb_cm.png
 ├── notebook/
 │   └── nids_model.ipynb
 ├── README.md
